@@ -110,6 +110,7 @@ div>div>img{
     left: 0;
     top: 40px;
 }
+
 .hero-container-right{
     display: flex;
     flex-direction: column;
